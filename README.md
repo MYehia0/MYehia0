@@ -50,19 +50,11 @@ I work with a modern mobile stack, moving beyond basics to advanced architecture
 
 ### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MYehia0&show_icons=true&count_private=true&theme=dracula&hide_border=false" alt="Mohamed Yehia's GitHub Stats" />
-</p>
+![Mohamed's Stats](https://github-readme-stats.vercel.app/api?username=MYehia0&show_icons=true&theme=dracula)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MYehia0&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Mohamed Yehia's Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYehia0&layout=compact&theme=dracula)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MYehia0&mode=weekly&theme=dracula&hide_border=false" alt="Mohamed Yehia's Streak" />
-</p>
+![Streak Stats](https://streak-stats.demolab.com?user=MYehia0&theme=dracula)
 
 ### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MYehia0&theme=tokyonight&margin-w=4&no-frame=true" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=MYehia0&theme=tokyonight&no-frame=true&margin-w=4)
